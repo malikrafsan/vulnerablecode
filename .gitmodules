@@ -1,0 +1,3 @@
+[submodule "vulntotal-extension/python-web-extension"]
+	path = vulntotal-extension/poc-python-web-extension
+	url = https://github.com/malikrafsan/python-web-extension
