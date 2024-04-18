@@ -16,6 +16,8 @@ VulnTotal cross-validates the vulnerability coverage of publicly available vulne
 1. Google Summer of Code (GSoC) 2024 Proposal
     - This proposal contains project summary, project description, proposed timeline, and proposed implementation method
     - We can find the proposal here: [GSoC 2024 Proposal AboutCode - VulnerableCode Vulntotal Browser Extension](./docs/Proposal%20AboutCode%20-%20VulnerableCode%20Vulntotal%20Browser%20Extension%20(Category%20B)%20-%20Malik%20Akbar%20Hashemi%20Rafsanjani.pdf)
+    - GSoC 2024 Project Ideas Description: [GSOC 2024 Project Ideas](https://github.com/nexB/aboutcode/wiki/GSOC-2024-Project-Ideas/)
+    - Main Issue: [Vulntotal browser extension #1121](https://github.com/nexB/vulnerablecode/issues/1121)
 
 2. VulnTotal
     - VulnTotal Documentation: [VulnTotal: Tool for cross-validating vulnerability](https://rtd.keshav.space/en/latest/)
