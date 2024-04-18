@@ -1,8 +1,8 @@
 # VulnTotal Browser Extension
 
-> This project is proposed to be part of Google Summer of Code (GSoC) 2024.
+> **This project is proposed to be part of Google Summer of Code (GSoC) 2024.**
 
-> This project implements a browser extension which would run VulnTotal on the client side. This will enable client to query the vulnerability datasources and comparing them.
+> **This project implements a browser extension which would run VulnTotal on the client side. This will enable client to query the vulnerability datasources and comparing them.**
 
 ## Project Description
 Currently, VulnTotal, one of AboutCode's projects for cross-validating public vulnerability check tools and data sources, only provides CLI tools that take a PURL argument and return vulnerability data from various data sources. This project aims to expand the usage of VulnTotal by providing a browser extension that runs VulnTotal and allows browser users to query vulnerability data sources and cross-validate them directly on the client side of the browser. This project will deliver an implementation of a browser extension using Python that can run VulnTotal. Python is chosen as the VulnTotal project is implemented using Python, thus the existing project doesn’t need to be rewritten. In addition, this project will also deliver research result of a suitable tool to run Python code in the browser, especially as a browser extension. By developing this project, a better user experience can be provided to cross-validate and check vulnerability data sources.
